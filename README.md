@@ -143,7 +143,7 @@ See **[HELP.md](HELP.md)** for full installation, setup, and automation instruct
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Manojkumar1705/IOC-SOC.git
+git clone https://github.com/Manojkumar1705/IOC-Aggregator.git
 cd IOC-SOC
 
 # 2. Install dependencies
@@ -163,6 +163,6 @@ python3 ioc_aggregator.py
 
 Developed by the SOC Automation Team — Hindustan Institute of Technology & Science
 
+- Manoj Kumar R (23SU2400039)
 - Gowshik S (23SU2400022)
-- Manoj Kumar (23SU2400039)
 - Sivamuthu Selvadurai M (23SU2400071)
