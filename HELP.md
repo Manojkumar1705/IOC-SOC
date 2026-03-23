@@ -34,7 +34,7 @@ Complete guide to installing, configuring, running, and automating the **IOC Agg
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/Manojkumar1705/IOC-SOC.git
+git clone https://github.com/Manojkumar1705/IOC-Aggregator.git
 cd IOC-SOC
 ```
 
